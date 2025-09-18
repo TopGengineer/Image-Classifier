@@ -1,0 +1,9 @@
+streamlit
+numpy
+pillow
+matplotlib
+scikit-learn
+scipy
+pydicom
+# optional for CNN:
+# tensorflow-cpu
