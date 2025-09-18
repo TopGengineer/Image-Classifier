@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# streamlit
+.streamlit/
+
+# junk
+.DS_Store
+*.zip
+*.joblib
+*.pkl
